@@ -1,0 +1,4 @@
+scrapy==2.11.0
+twisted==22.10.0
+pyopenssl==23.2.0
+psycopg2-binary==2.9.9
