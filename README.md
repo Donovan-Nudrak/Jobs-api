@@ -23,7 +23,7 @@ A professional-grade backend system that scrapes remote job listings, stores the
 
 ```bash
 # 1. Clone & enter the project
-git clone <repo> Jobs-api
+git clone https://github.com/Donovan-Nudrak/Jobs-api.git 
 cd Jobs-api
 
 # 2. Start all services
